@@ -1,0 +1,30 @@
+.img-card.select-img {
+    -webkit-filter: grayscale(100%) !important;
+    filter: grayscale(100%) !important;    
+    transform: scale(0.8);
+}
+.img-card{
+    cursor: pointer;
+    transition: 2s All;
+    margin: auto;
+    padding: 0 !important;
+    transition: 2s all;
+}
+.img-card:hover{
+    transform: translateY(-2%);    
+}
+
+.navbar {
+    border-bottom: 2px yellow solid;
+}
+
+#NumCards{
+    font-weight: 700;
+}
+
+.ContTarjetaRand {    
+    background-color: gold;
+    border-radius: 10%;
+    padding: -40px !important;
+    
+}
