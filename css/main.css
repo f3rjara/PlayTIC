@@ -71,7 +71,7 @@ body{
     min-height: 200px !important;   
 }
 
-.card-body span{
+.card-body i{
     font-size: 5rem;
     margin: auto;
     padding: 10px;
