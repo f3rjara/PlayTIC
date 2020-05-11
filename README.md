@@ -3,4 +3,4 @@ Más que una herramienta, en esta serie de videos programaremos varias herramien
 
 Ver: https://f3rjara.github.io/PlayTIC/
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://i.ibb.co/pLkKMJZ/CAP-1.png)](https://www.youtube.com/watch?v=zgU8qedad0w)
