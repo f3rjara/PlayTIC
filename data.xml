@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding = "UTF-8" ?>
+<FACTURA>
+    <FACTURA_ENC>
+        <Susc_codser>01</Susc_codser>
+        <Susc_codzon>PC</Susc_codzon>
+        <Susc_codsus>27485</Susc_codsus>
+        <Sec_factura>11</Sec_factura>
+        <PERIODOX>01-ABR-20</PERIODOX>
+        <Nom_suscriptor>ROSALBA DIAZ PINTA</Nom_suscriptor>
+        <Dir_suscriptor>B/ EL JARDIN</Dir_suscriptor>
+        <Cien_codcic>PC1</Cien_codcic>
+        <Ruen_cod_ruta>C101</Ruen_cod_ruta>
+        <Orden>620</Orden>
+        <Facturas_deuda>1</Facturas_deuda>
+        <Digito_chequeo>4</Digito_chequeo>
+        <Vadi_cod_division>86569000101</Vadi_cod_division>
+        <Taen_cod_tarifa>105</Taen_cod_tarifa>
+        <Carga_Instal>.6</Carga_Instal>
+        <Area>URBANA</Area>
+        <Tius_cod_tipo>RE</Tius_cod_tipo>
+        <Estr_cod_estrato>1</Estr_cod_estrato>
+        <Nive_nivel_tension>1</Nive_nivel_tension>
+        <Estr_cod_estrato>1</Estr_cod_estrato>
+        <Tisu_cod_tipo>CM</Tisu_cod_tipo>
+        <Fecha_toma>16-ABR-20</Fecha_toma>
+        <Fecha_toma_ant>16-MAR-20</Fecha_toma_ant>
+        <Fecha_fac>28-ABR-20</Fecha_fac>
+        <Nro_factura>2034599847</Nro_factura>
+        <Fecha_toma_ant>16-MAR-20</Fecha_toma_ant>
+        <direcc_envio></direcc_envio>
+        <tide_cod_tipo></tide_cod_tipo>
+        <ciudad></ciudad>
+        <tide_cod_tipo></tide_cod_tipo>
+        <Fecha_vencim></Fecha_vencim>
+        <Total_fac>7610</Total_fac>
+        <Fecpub>18-MAR-20</Fecpub>
+        <Propiedad>SP</Propiedad>
+        <Cod_nodo>CUR004</Cod_nodo>
+        <tipo_red>A</tipo_red>
+        <desc_propiedad>EMPRESA</desc_propiedad>
+        <cod_suscriptor>PC 27485</cod_suscriptor>
+        <FECHAS_LECTURA>16-MAR-2020 - 16-ABR-2020</FECHAS_LECTURA>
+        <DESC_PERIODO>ABRIL 2020</DESC_PERIODO>
+        <dias_fac>31</dias_fac>
+    </FACTURA_ENC>
+
+     <FACTURA_ENC>
+        <Susc_codser>01</Susc_codser>
+        <Susc_codzon>PC</Susc_codzon>
+        <Susc_codsus>27485</Susc_codsus>
+        <Sec_factura>11</Sec_factura>
+        <PERIODOX>01-ABR-20</PERIODOX>
+        <Nom_suscriptor>LUIS FERNANDO JARAMILLO</Nom_suscriptor>
+        <Dir_suscriptor>B/ EL JARDIN</Dir_suscriptor>
+        <Cien_codcic>PC1</Cien_codcic>
+        <Ruen_cod_ruta>C101</Ruen_cod_ruta>
+        <Orden>620</Orden>
+        <Facturas_deuda>1</Facturas_deuda>
+        <Digito_chequeo>4</Digito_chequeo>
+        <Vadi_cod_division>86569000101</Vadi_cod_division>
+        <Taen_cod_tarifa>105</Taen_cod_tarifa>
+        <Carga_Instal>.6</Carga_Instal>
+        <Area>URBANA</Area>
+        <Tius_cod_tipo>RE</Tius_cod_tipo>
+        <Estr_cod_estrato>1</Estr_cod_estrato>
+        <Nive_nivel_tension>1</Nive_nivel_tension>
+        <Estr_cod_estrato>1</Estr_cod_estrato>
+        <Tisu_cod_tipo>CM</Tisu_cod_tipo>
+        <Fecha_toma>16-ABR-20</Fecha_toma>
+        <Fecha_toma_ant>16-MAR-20</Fecha_toma_ant>
+        <Fecha_fac>28-ABR-20</Fecha_fac>
+        <Nro_factura>2034599847</Nro_factura>
+        <Fecha_toma_ant>16-MAR-20</Fecha_toma_ant>
+        <direcc_envio></direcc_envio>
+        <tide_cod_tipo></tide_cod_tipo>
+        <ciudad></ciudad>
+        <tide_cod_tipo></tide_cod_tipo>
+        <Fecha_vencim></Fecha_vencim>
+        <Total_fac>7610</Total_fac>
+        <Fecpub>18-MAR-20</Fecpub>
+        <Propiedad>SP</Propiedad>
+        <Cod_nodo>CUR004</Cod_nodo>
+        <tipo_red>A</tipo_red>
+        <desc_propiedad>EMPRESA</desc_propiedad>
+        <cod_suscriptor>PC 27485</cod_suscriptor>
+        <FECHAS_LECTURA>16-MAR-2020 - 16-ABR-2020</FECHAS_LECTURA>
+        <DESC_PERIODO>ABRIL 2020</DESC_PERIODO>
+        <dias_fac>31</dias_fac>
+    </FACTURA_ENC>
+</FACTURA>
